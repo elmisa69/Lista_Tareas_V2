@@ -1,0 +1,32 @@
+.container {
+  margin: auto;
+  width: 50%;
+  border: 1px solid #ddd;
+  background-color: #fff;
+  padding: 10px;
+align-self: auto;  
+}
+
+.add-btn {
+  float: right;
+  background-color: red;
+  color: #ffffff;
+  align-self: start;
+}
+
+.box:nth-of-type(odd) {
+  background: #eee;
+}
+
+body{
+  background-color: darkgrey;
+}
+
+h1{
+  text-align: center
+}
+
+.campos{
+  margin: 5px; 
+  text-align: center;
+}
